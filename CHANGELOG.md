@@ -1,5 +1,10 @@
 # release notes
 
+## 3.1.2
+Linked plugin documentation to https://github.com/jenkinsci/mattermost-plugin/README.md
+
+...
+
 ## 2.4.0
 
 If you split channel names purely on space, you should now add commas (`,`) or semicolons (`;`) now - spaces can now be used as part of the user name.
